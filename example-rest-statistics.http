@@ -1,0 +1,5 @@
+# GET http://localhost:4001/api/statistics/count?zip=1000&weekly_increase=true HTTP/1.1
+# GET http://localhost:4001/api/statistics/avg_price_per_m2?zip=2000&weekly_increase=true HTTP/1.1
+# GET http://localhost:4001/api/statistics/commune/aggregates?zip=2000&ord=2 HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIyMDIxLTEyLTMwVDEzOjU5OjUxLjI1OTIzOVoiLCJpc3MiOiJNYXR0aGlldSBMYWJzIFNSTCIsIm5hbWUiOiJKYW5leiBOb3ZhayIsInN1YiI6MX0.a-IZkXmmKr31413bRcmVYlMhIMX0JHx3ZXvhOUwsZK0

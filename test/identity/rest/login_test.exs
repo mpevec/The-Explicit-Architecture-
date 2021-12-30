@@ -1,4 +1,3 @@
-# rename to login test
 defmodule Identity.Rest.LoginTest do
   @moduledoc false
 
